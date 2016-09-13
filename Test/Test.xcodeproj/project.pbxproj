@@ -16,6 +16,7 @@
 		7D8A22991D87D1B200A52EED /* TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D8A22981D87D1B200A52EED /* TestTests.m */; };
 		7D8A22A41D87D1B200A52EED /* TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D8A22A31D87D1B200A52EED /* TestUITests.m */; };
 		7D8A22BE1D87F42900A52EED /* BAIDUViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D8A22BD1D87F42900A52EED /* BAIDUViewController.m */; };
+		7D8A22C11D87F72200A52EED /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D8A22C01D87F72200A52EED /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		7D8A22A51D87D1B200A52EED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D8A22BC1D87F42900A52EED /* BAIDUViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BAIDUViewController.h; sourceTree = "<group>"; };
 		7D8A22BD1D87F42900A52EED /* BAIDUViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BAIDUViewController.m; sourceTree = "<group>"; };
+		7D8A22BF1D87F72200A52EED /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		7D8A22C01D87F72200A52EED /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				7D8A22851D87D1B200A52EED /* ViewController.m */,
 				7D8A22BC1D87F42900A52EED /* BAIDUViewController.h */,
 				7D8A22BD1D87F42900A52EED /* BAIDUViewController.m */,
+				7D8A22BF1D87F72200A52EED /* TestViewController.h */,
+				7D8A22C01D87F72200A52EED /* TestViewController.m */,
 				7D8A22871D87D1B200A52EED /* Main.storyboard */,
 				7D8A228A1D87D1B200A52EED /* Assets.xcassets */,
 				7D8A228C1D87D1B200A52EED /* LaunchScreen.storyboard */,
@@ -282,6 +287,7 @@
 				7D8A22861D87D1B200A52EED /* ViewController.m in Sources */,
 				7D8A22831D87D1B200A52EED /* AppDelegate.m in Sources */,
 				7D8A22801D87D1B200A52EED /* main.m in Sources */,
+				7D8A22C11D87F72200A52EED /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
